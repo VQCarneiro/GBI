@@ -3,7 +3,7 @@
 ---
 
 - GBI é um software gratuito focado em procedimentos de visão computacional aplicados a vegetais
-- Download: [GBI - Version 1.0](https://github.com/VQCarneiro/GBI/raw/refs/heads/GBI_VERSOES/GBI_1.0.rar?download=)
+- Download: [GBI - Versão 1.0](https://github.com/VQCarneiro/GBI/raw/refs/heads/GBI_VERSOES/GBI_1.0.rar?download=)
 
 ---
 ## Autores
